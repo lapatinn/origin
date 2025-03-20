@@ -8,4 +8,4 @@ Because of the dominance of Linux-based Android on smartphones, Linux, including
 
 Linux also runs on embedded systems, i.e., devices whose operating system is typically built into the firmware and is highly tailored to the system. This includes routers, automation controls, smart home devices, video game consoles, televisions (Samsung and LG smart TVs),[52][53][54] automobiles (Tesla, Audi, Mercedes-Benz, Hyundai, and Toyota),[55] and spacecraft (Falcon 9 rocket, Dragon crew capsule, and the Ingenuity Mars helicopter).[56][57]
 
-Joo salee Linux natsaa ja Git on tosi kiva ja onhan se kivaa tehdä committeja ja näin joo kyllä kelpaa commitata ja pushata muutoksia projektiin joo on tosi kivaa olen erittäin onnellinen ja iloinen ja kaikki on niin hyvin ja nautin elämästä je jipiiiiiii. 
+Joo salee Linux natsaa ja Git on tosi kiva ja onhan se kivaa tehdä committeja ja näin joo kyllä kelpaa commitata ja pushata muutoksia projektiin joo on tosi kivaa olen erittäin onnellinein ja iloinen
